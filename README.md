@@ -1,3 +1,4 @@
+![Image Alt text](/milky-way.jpg)
 ## Hi there 👋
 
 <!--
