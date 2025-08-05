@@ -1,4 +1,4 @@
-![Image Alt text](/milky-way.png)
+![Image Alt text](/gradient-Text.png)
 
 ---
 ### I like working with
