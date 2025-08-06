@@ -14,3 +14,5 @@
 
 ![Static Badge](https://img.shields.io/badge/GIT-%237160e8?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/JIRA-%237160e8?style=for-the-badge)
+
+<br />
