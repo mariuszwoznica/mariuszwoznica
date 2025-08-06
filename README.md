@@ -1,7 +1,7 @@
 ![Image Alt text](/gradient-Text.png)
 
 #
-### I like working with
+### <span style="color:#89929b">I like working with</span>
 
 ![Static Badge](https://img.shields.io/badge/.NET-%237160e8?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/C%23-%237160e8?style=for-the-badge)
@@ -14,5 +14,3 @@
 
 ![Static Badge](https://img.shields.io/badge/GIT-%237160e8?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/JIRA-%237160e8?style=for-the-badge)
-
-<br />
